@@ -1,0 +1,7 @@
+node_modules
+Dockerfile
+.dockerignore
+Jenkinsfile
+deployment
+pom.xml
+docs

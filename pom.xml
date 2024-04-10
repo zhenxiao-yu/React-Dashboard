@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>org.autodatacorp</groupId>
+    <artifactId>monitoring-ui</artifactId>
+    <version>1.1.0</version>
+    <packaging>pom</packaging>
+
+    <name>monitoring-ui</name>
+    <description>An internal tool for monitoring the status of various corporate services.</description>
+
+    <parent>
+        <groupId>net.autodata</groupId>
+        <artifactId>autodata-super-pom</artifactId>
+        <version>1.0.4</version>
+    </parent>
+
+    <properties>
+        <final.name>monitoring-ui</final.name>
+        <maven.build.timestamp.format>yyyy-MM-dd HH:mm</maven.build.timestamp.format>
+        <timestamp>${maven.build.timestamp}</timestamp>
+        <frontend-src-dir>${project.basedir}/src</frontend-src-dir>
+        <sonar.sources>.</sonar.sources>
+        <sonar.inclusions>src/**</sonar.inclusions>
+        <sonar.exclusions>
+            src/__tests__/**/*,
+            src/slices/**/*,
+            src/components/App.js,
+            src/rootReducer.js
+            src/store/store.js
+        </sonar.exclusions>
+        <sonar.javascript.lcov.reportPaths>${project.basedir}/coverage/lcov.info</sonar.javascript.lcov.reportPaths>
+    </properties>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.codehaus.mojo/exec-maven-plugin -->
+        <dependency>
+            <groupId>org.codehaus.mojo</groupId>
+            <artifactId>exec-maven-plugin</artifactId>
+            <version>3.0.0</version>
+        </dependency>
+    </dependencies>
+
+    <build>
+        <plugins>
+            <plugin>
+                <groupId>org.codehaus.mojo</groupId>
+                <artifactId>exec-maven-plugin</artifactId>
+                <executions>
+<!--                    <execution>-->
+<!--                        <id>make directory</id>-->
+<!--                        <phase>prepare-package</phase>-->
+<!--                        <goals>-->
+<!--                            <goal>exec</goal>-->
+<!--                        </goals>-->
+<!--                        <configuration>-->
+<!--                            <executable>mkdir</executable>-->
+<!--                            <arguments>-->
+<!--                                <argument>-p</argument>-->
+<!--                                <argument>${project.build.directory}</argument>-->
+<!--                            </arguments>-->
+<!--                        </configuration>-->
+<!--                    </execution>-->
+<!--                    <execution>-->
+<!--                        <id>create dummy file</id>-->
+<!--                        <phase>package</phase>-->
+<!--                        <goals>-->
+<!--                            <goal>exec</goal>-->
+<!--                        </goals>-->
+<!--                        <configuration>-->
+<!--                            <executable>touch</executable>-->
+<!--                            <arguments>-->
+<!--                                <argument>${project.build.directory}/dummy.war</argument>-->
+<!--                            </arguments>-->
+<!--                        </configuration>-->
+<!--                    </execution>-->
+                </executions>
+            </plugin>
+            <plugin>
+                <!-- https://github.com/eirslett/frontend-maven-plugin -->
+                <artifactId>frontend-maven-plugin</artifactId>
+                <groupId>com.github.eirslett</groupId>
+                <version>1.11.0</version>
+                <executions>
+                    <execution>
+                        <id>install node and yarn</id>
+                        <goals>
+                            <goal>install-node-and-yarn</goal>
+                        </goals>
+                        <phase>generate-resources</phase>
+                        <configuration>
+                            <nodeVersion>v14.15.4</nodeVersion>
+                            <yarnVersion>v1.22.10</yarnVersion>
+                            <installDirectory>${project.basedir}</installDirectory>
+                        </configuration>
+                    </execution>
+                    <execution>
+                        <id>yarn install</id>
+                        <goals>
+                            <goal>yarn</goal>
+                        </goals>
+                        <phase>generate-resources</phase>
+                    </execution>
+                    <execution>
+                        <id>yarn build</id>
+                        <goals>
+                            <goal>yarn</goal>
+                        </goals>
+                        <phase>compile</phase>
+                        <configuration>
+                            <arguments>build</arguments>
+                        </configuration>
+                    </execution>
+<!--                    <execution>-->
+<!--                        <id>javascript-test</id>-->
+<!--                        <goals>-->
+<!--                            <goal>npm</goal>-->
+<!--                        </goals>-->
+<!--                        <phase>test</phase>-->
+<!--                        <configuration>-->
+<!--                            <arguments>run test-ci</arguments>-->
+<!--                        </configuration>-->
+<!--                    </execution>-->
+                </executions>
+            </plugin>
+<!--            <plugin>-->
+<!--                <artifactId>maven-assembly-plugin</artifactId>-->
+<!--                <configuration>-->
+<!--                    <descriptors>-->
+<!--                        <descriptor>assembly.xml</descriptor>-->
+<!--                    </descriptors>-->
+<!--                    <tarLongFileMode>posix</tarLongFileMode>-->
+<!--                    <appendAssemblyId>false</appendAssemblyId>-->
+<!--                </configuration>-->
+<!--                <executions>-->
+<!--                    <execution>-->
+<!--                        <id>make-assembly</id>-->
+<!--                        <phase>package</phase>-->
+<!--                        <goals>-->
+<!--                            <goal>single</goal>-->
+<!--                        </goals>-->
+<!--                    </execution>-->
+<!--                </executions>-->
+<!--            </plugin>-->
+        </plugins>
+    </build>
+</project>

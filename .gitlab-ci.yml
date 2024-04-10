@@ -1,0 +1,30 @@
+include:
+  - project: 'corp/cicd/templates'
+    ref: cpp-release
+    file: '/gitlab-ci/app-maven-ui-crd-maintenance-template.yml'
+  - project: 'corp/cicd/templates'
+    ref: cpp-release
+    file: '/gitlab-ci/common-settings-pd.yml'
+  - project: 'corp/cicd/templates'
+    ref: cpp-release  
+    file:  '/gitlab-ci/ci-docker-template.yml'
+variables:
+
+  SAST_JAVA_VERSION: 11
+  BUILD_MAVEN_IMAGE: $DOCKER_PULL_REPO/maven:3-jdk-11
+  CICD_DEPLOY_IMAGE: $DOCKER_PULL_REPO/cicd/cicd-storm:1.0.6
+  MAVEN_DEPLOY_REPO_DEVELOP: "https://nexus-pro.autodatacorp.org/repository/maven-release"
+  MAVEN_ARTIFACTS: "org.autodatacorp.ui:monitoring-ui:jar"
+  VERSION_NO_SNAPSHOT: "true"
+  DEPLOY_DEVTOQA: "false"
+  DISABLE_UAT: "true"
+  DISABLE_PROD: "true"
+  APP_CONTAINER_PATH: "cpp/ui"
+  APP_DEPLOY_NAME: "monitoring-ui"
+  DOCKER_RELEASE_REPO: docker-pro-push.autodatacorp.org
+  DOCKER_DRIVER: overlay2
+  DOCKER_TLS_CERTDIR: ""
+  JAR_VERSION: Monitoring-ui-1.0.0.-$CI_PIPELINE_ID-jar-with-dependencies.jar
+  CONTAINER_SNAPSHOT_IMAGE: "cpp/ui/monitoring-ui:latest"  
+  ##KUBECONFIG: /etc/deploy/config
+

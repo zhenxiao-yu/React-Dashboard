@@ -1,0 +1,100 @@
+{
+  "name": "monitoring-ui",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "/monitoring-ui",
+  "dependencies": {
+    "@reduxjs/toolkit": "1.5.1",
+    "@testing-library/jest-dom": "^5.12.0",
+    "@testing-library/react": "^11.2.6",
+    "@testing-library/user-event": "^12.8.3",
+    "@tippy.js/react": "^3.1.1",
+    "apexcharts": "3.15.3",
+    "axios": "0.21.1",
+    "classnames": "^2.3.1",
+    "jest-junit": "12.1.0",
+    "jquery": "3.6.0",
+    "node-sass": "6.0.0",
+    "prop-types": "15.7.2",
+    "react": "^17.0.2",
+    "react-animated-css": "^1.2.1",
+    "react-apexcharts": "^1.3.6",
+    "react-dom": "^17.0.2",
+    "react-hot-toast": "^2.2.0",
+    "react-icons": "4.3.1",
+    "react-loader-spinner": "^5.3.4",
+    "react-redux": "7.2.4",
+    "react-router-dom": "6.6.1",
+    "react-scripts": "4.0.3",
+    "react-transition-group": "^4.4.2",
+    "redux": "4.1.0",
+    "sync-lockfile": "^2.0.13",
+    "web-vitals": "^1.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "test-ci": "react-scripts test --reporters=default --reporters=jest-junit --ci --coverage  --watchAll=false"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "jest-junit": {
+    "reporters": [
+      "jest-junit"
+    ],
+    "suiteNameTemplate": "{filepath}",
+    "usePathForSuiteName": "true",
+    "outputDirectory": "target/surefire-reports",
+    "outputName": "TEST-jest.xml",
+    "classNameTemplate": "{classname}",
+    "titleTemplate": "{title}",
+    "ancestorSeparator": " › "
+  },
+  "jest": {
+    "coveragePathIgnorePatterns": [
+      "/store/",
+      "/slices/",
+      "index.js",
+      "App.js",
+      "reportWebVitals.js"
+    ]
+  },
+  "babel": {
+    "presets": [
+      [
+        "@babel/preset-react",
+        {
+          "runtime": "automatic"
+        }
+      ],
+      "@babel/preset-env"
+    ],
+    "plugins": [
+      [
+        "@babel/plugin-transform-react-jsx",
+        {
+          "runtime": "automatic"
+        }
+      ],
+      "@babel/plugin-transform-runtime"
+    ]
+  }
+}

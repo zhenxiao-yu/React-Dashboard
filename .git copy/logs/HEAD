@@ -1,0 +1,314 @@
+0000000000000000000000000000000000000000 f111f1f61e1a10d5026d154e53f0957fb12f5901 Mark Yu <zyu347@uwo.ca> 1654046115 -0400	clone: from git.autodatacorp.org:corp/cpp/ui/monitoring-ui.git
+f111f1f61e1a10d5026d154e53f0957fb12f5901 f111f1f61e1a10d5026d154e53f0957fb12f5901 Mark Yu <zyu347@uwo.ca> 1654046247 -0400	checkout: moving from develop to personal-my-cpp-21186
+f111f1f61e1a10d5026d154e53f0957fb12f5901 c2646942bfc5245d61d0a9e27191a02163fdd3c8 Mark Yu <zyu347@uwo.ca> 1654095930 -0400	commit: init structure for phase 2 UI
+c2646942bfc5245d61d0a9e27191a02163fdd3c8 131c165ffb8ef6700634c8f33cb1d849228b634b Mark Yu <zyu347@uwo.ca> 1654139008 -0400	commit: Added template for sidebar
+131c165ffb8ef6700634c8f33cb1d849228b634b 16ef50a51993f4cc76b5b01602dc621112af0715 Mark Yu <zyu347@uwo.ca> 1654193329 -0400	commit: Added styling for navbar and dashboard
+16ef50a51993f4cc76b5b01602dc621112af0715 f82e589b374411fbe06170ed92ff321cd9e5c54e Mark Yu <zyu347@uwo.ca> 1654193357 -0400	commit: Added styling for sidebar
+f82e589b374411fbe06170ed92ff321cd9e5c54e a169e69aad8daad3e3c1e4b65a81e886ecb72760 Mark Yu <zyu347@uwo.ca> 1654193420 -0400	commit: Created empty classes for project structuring
+a169e69aad8daad3e3c1e4b65a81e886ecb72760 bcfb63e060a6ac4013386a3e92d67b399f0c1fe7 Mark Yu <zyu347@uwo.ca> 1654536276 -0400	commit: Deleted legacy styling
+bcfb63e060a6ac4013386a3e92d67b399f0c1fe7 f97bbfbfc62b46963b31fe76d26db55c161cbd7a Mark Yu <zyu347@uwo.ca> 1654536423 -0400	commit: Added boxicon 2.0.7 as dependency for icons and animations
+f97bbfbfc62b46963b31fe76d26db55c161cbd7a d4b177b3f9ee7d8e92089bf1f204e9c7eeb8d0fa Mark Yu <zyu347@uwo.ca> 1654536466 -0400	commit: Removed Bulma library
+d4b177b3f9ee7d8e92089bf1f204e9c7eeb8d0fa 7e54cb8926c267190719393a164fc49032790c16 Mark Yu <zyu347@uwo.ca> 1654536483 -0400	commit: Removed Bulma library
+7e54cb8926c267190719393a164fc49032790c16 b3236f8c6bb8ac1619063fe55bfa6b40d8fd39d5 Mark Yu <zyu347@uwo.ca> 1654536638 -0400	commit: Added Badge and Dropdown reusable components
+b3236f8c6bb8ac1619063fe55bfa6b40d8fd39d5 e5ddf16ac175b9e420b2e5074ada1efe23aa5311 Mark Yu <zyu347@uwo.ca> 1654544414 -0400	commit: Added mock data for testing
+e5ddf16ac175b9e420b2e5074ada1efe23aa5311 73857dc17a5f4135de3c57eaa7d9ec945fc9a4ed Mark Yu <zyu347@uwo.ca> 1654544450 -0400	commit: Added Router, Sidebar and Status Card
+73857dc17a5f4135de3c57eaa7d9ec945fc9a4ed b463291cefa7a43b36d02d19893556f567fe05ce Mark Yu <zyu347@uwo.ca> 1654544489 -0400	commit: Added Navigation bar component
+b463291cefa7a43b36d02d19893556f567fe05ce 9844be90c38b218d5938712e47ee49acc52b24f2 Mark Yu <zyu347@uwo.ca> 1654544545 -0400	commit: Added Layout and refacted index.js
+9844be90c38b218d5938712e47ee49acc52b24f2 3460fe0f596ca0acbdcf19eb2f25671ad631d5a4 Mark Yu <zyu347@uwo.ca> 1654544594 -0400	commit: Added Error and reworked index.js
+3460fe0f596ca0acbdcf19eb2f25671ad631d5a4 95cdae28197c1808537ef80e99eefcb28b5ac1da Mark Yu <zyu347@uwo.ca> 1654544681 -0400	commit: Added Theme menu, theming functionality and template for monitoring page
+95cdae28197c1808537ef80e99eefcb28b5ac1da 4de00e225e6a587e87f0c0874ad251653a29caa8 Mark Yu <zyu347@uwo.ca> 1654544976 -0400	commit: Added Table component and grid.scss for responsive display
+4de00e225e6a587e87f0c0874ad251653a29caa8 9b6143aa351db58552fa0a9127a0267c08fbf3f4 Mark Yu <zyu347@uwo.ca> 1654549951 -0400	commit: Formatted scss and added norder to nav bar
+9b6143aa351db58552fa0a9127a0267c08fbf3f4 22b24911aa7117c511416b7dfbb45547773d0b8f Mark Yu <zyu347@uwo.ca> 1654648595 -0400	commit: Added template files for Monitoring Dashboard
+22b24911aa7117c511416b7dfbb45547773d0b8f 5c827316156396e6f0744a8d9944f8493f98ced9 Mark Yu <zyu347@uwo.ca> 1654784879 -0400	commit: Added Base component for Monitor Dropdown, added Admin and Monitor page with placeholders
+5c827316156396e6f0744a8d9944f8493f98ced9 241da83868885f0d124116d45817171144927513 Mark Yu <zyu347@uwo.ca> 1655085037 -0400	commit: Implemented Monitor Dropdown component into Monitor page
+241da83868885f0d124116d45817171144927513 0e5a01fcd61c17ee10a8b190c4a2544c2a23af62 Mark Yu <zyu347@uwo.ca> 1655089888 -0400	commit: Added toggle button component
+0e5a01fcd61c17ee10a8b190c4a2544c2a23af62 5aad5b0831969f9c2d5b8e5a2e063146046c4ce7 Mark Yu <zyu347@uwo.ca> 1655156319 -0400	commit: Added Admin groups tables
+5aad5b0831969f9c2d5b8e5a2e063146046c4ce7 f64a204deb5e1b266b2ca514b129aa4b7e28db13 Mark Yu <zyu347@uwo.ca> 1655156336 -0400	commit: Added tables component
+f64a204deb5e1b266b2ca514b129aa4b7e28db13 d884ba99785ebc9d5a4a46289775982d7e7ce6f0 Mark Yu <zyu347@uwo.ca> 1655308891 -0400	commit: Update admin page with groups tables and buttons
+d884ba99785ebc9d5a4a46289775982d7e7ce6f0 1d87fb4f83f81ed9826daa018d8628b2eaf3e8b0 Mark Yu <zyu347@uwo.ca> 1655308917 -0400	commit: Added new package dependencies
+1d87fb4f83f81ed9826daa018d8628b2eaf3e8b0 1bc693cd418316e0904fc22bae70d58ad2e89163 Mark Yu <zyu347@uwo.ca> 1655313198 -0400	commit: Added hover effects
+1bc693cd418316e0904fc22bae70d58ad2e89163 4a0271a2bff4efe3be1f3b979c3a0b5e1d95ef46 Mark Yu <zyu347@uwo.ca> 1655854773 -0400	commit: Added template for breadcrumb component
+4a0271a2bff4efe3be1f3b979c3a0b5e1d95ef46 00be540a6fe37df06509347a4b8a27fdb38670b4 Mark Yu <zyu347@uwo.ca> 1655854873 -0400	commit: Working on modal component
+00be540a6fe37df06509347a4b8a27fdb38670b4 bfb2e5fcd1075c027307a0837fcac9fbf3dd98ea Mark Yu <zyu347@uwo.ca> 1655854926 -0400	commit: Added mock data for testing
+bfb2e5fcd1075c027307a0837fcac9fbf3dd98ea f33819ee4605e902ec6741cbaa37f97bfd1da720 Mark Yu <zyu347@uwo.ca> 1655854943 -0400	commit: slightly improved sidebar styling
+f33819ee4605e902ec6741cbaa37f97bfd1da720 550818e5adc66d20e7869f351e18714d114df88c Mark Yu <zyu347@uwo.ca> 1655854977 -0400	commit: dropdown and sidebar testing
+550818e5adc66d20e7869f351e18714d114df88c e939c2c371a46eed9cab0dacb215908af36a1aa8 Mark Yu <zyu347@uwo.ca> 1656011297 -0400	commit: updated new dummy data file
+e939c2c371a46eed9cab0dacb215908af36a1aa8 5d85bf76f24b9502611d6ee9358ce06395ed2136 Mark Yu <zyu347@uwo.ca> 1656011341 -0400	commit: Testing drill down functionality
+5d85bf76f24b9502611d6ee9358ce06395ed2136 298d7a2acede9a7711c19a69e86c9def8d5e8d7e Mark Yu <zyu347@uwo.ca> 1656011377 -0400	commit: Added search functionality on Monitor page
+298d7a2acede9a7711c19a69e86c9def8d5e8d7e cebfb3924a439019eff5d5a8b4f75149766fd966 Mark Yu <zyu347@uwo.ca> 1656011420 -0400	commit: Updated prop names for readability
+cebfb3924a439019eff5d5a8b4f75149766fd966 8d5aeb6a4255f5f840bb2c43a502f9b9e5c76727 Mark Yu <zyu347@uwo.ca> 1656012457 -0400	commit: formatting using prettier
+8d5aeb6a4255f5f840bb2c43a502f9b9e5c76727 1f0d15184c0e0201efddcd57b22f3e1d886f8a75 Mark Yu <zyu347@uwo.ca> 1656185255 -0400	commit: imported animation library
+1f0d15184c0e0201efddcd57b22f3e1d886f8a75 3e94819345c8dec53349fd197ff00a4b6c8ab7f3 Mark Yu <zyu347@uwo.ca> 1656185300 -0400	commit: Adding necessary boxicon assets
+3e94819345c8dec53349fd197ff00a4b6c8ab7f3 4fa0a318879b7f72e25fb64441de597c7f533326 Mark Yu <zyu347@uwo.ca> 1656185354 -0400	commit: Added usage of toast component
+4fa0a318879b7f72e25fb64441de597c7f533326 227548332f0bf6755efa449e3e5e702b551bb97d Mark Yu <zyu347@uwo.ca> 1656185378 -0400	commit: cdn import of animation.css in html
+227548332f0bf6755efa449e3e5e702b551bb97d fbb0e03b67a0e13ab62430efbb0667a37048ab62 Mark Yu <zyu347@uwo.ca> 1656262345 -0400	commit: added comments and more hover effects
+fbb0e03b67a0e13ab62430efbb0667a37048ab62 5e208b3cc209bb64634146c800ca5bd2f1601fc3 Mark Yu <zyu347@uwo.ca> 1656285731 -0400	commit: Added spinner component and remaking status card component
+5e208b3cc209bb64634146c800ca5bd2f1601fc3 78da77f9e85c99a2c619066029245515b3f76bc8 Mark Yu <zyu347@uwo.ca> 1656295117 -0400	commit: added loader component
+78da77f9e85c99a2c619066029245515b3f76bc8 4a9c20932afc763f5590b90c96218ecc7a0068a0 Mark Yu <zyu347@uwo.ca> 1656362476 -0400	commit: removed portal, added comments
+4a9c20932afc763f5590b90c96218ecc7a0068a0 96a71b869a8a6396e1e8c188e1efcfcb9688413f Mark Yu <zyu347@uwo.ca> 1656445893 -0400	commit: removed popup, added folder styling to testing component
+96a71b869a8a6396e1e8c188e1efcfcb9688413f d70aa92ea251dde5da4a67c514f4a6ef08446378 Mark Yu <zyu347@uwo.ca> 1656460789 -0400	commit: Using Modals to render folder data
+d70aa92ea251dde5da4a67c514f4a6ef08446378 d2ea8dd4ef7cf54ca3a6fda70b12ebad1830975f Mark Yu <zyu347@uwo.ca> 1656522683 -0400	commit: Added more reusable hover effects
+d2ea8dd4ef7cf54ca3a6fda70b12ebad1830975f 245a4f9210c86ba791e0100e2469f4aa6cea7f78 Mark Yu <zyu347@uwo.ca> 1656522721 -0400	commit: Fixed modal rendering bug and added tooltips when a service name is hovered
+245a4f9210c86ba791e0100e2469f4aa6cea7f78 0a02212d74d7d5c3ddb66fb0b90a010ed25d5f8e Mark Yu <zyu347@uwo.ca> 1656522769 -0400	commit: Added Tippy, a tooltip third party library
+0a02212d74d7d5c3ddb66fb0b90a010ed25d5f8e 08a6ff062c5b1f9ad432a8aa1f791d6f70210ab7 Mark Yu <zyu347@uwo.ca> 1656522798 -0400	commit: Updated folder styling
+08a6ff062c5b1f9ad432a8aa1f791d6f70210ab7 877f80988bcfb44fadd84090681e9cd9acfb6fb6 Mark Yu <zyu347@uwo.ca> 1656883812 -0400	commit: fixed search functionality on monitoring main page
+877f80988bcfb44fadd84090681e9cd9acfb6fb6 3918723657196876c50f8d9134d458ea596a7089 Mark Yu <zyu347@uwo.ca> 1656898642 -0400	commit: Added search functionality and transition effects to modal items
+3918723657196876c50f8d9134d458ea596a7089 1dda4faaf50ecc27b5f53864c4386eebfc45f727 Mark Yu <zyu347@uwo.ca> 1656901213 -0400	commit: Added legend and displaying fetched json data on separate page
+1dda4faaf50ecc27b5f53864c4386eebfc45f727 7059724b5d579047e7d16364b52e65715dd897a5 Mark Yu <zyu347@uwo.ca> 1656949048 -0400	commit: Legend item template
+7059724b5d579047e7d16364b52e65715dd897a5 27b93798d12f86e2cf05cfea0b910b0f153158b6 Mark Yu <zyu347@uwo.ca> 1656956819 -0400	commit: finished legend page
+27b93798d12f86e2cf05cfea0b910b0f153158b6 02df328389321c710da2fed0e75ff98d0b46748f Mark Yu <zyu347@uwo.ca> 1656960088 -0400	commit: Added waves animation
+02df328389321c710da2fed0e75ff98d0b46748f 308077519cc0f03741c711a03cdf3fe6f8f16dee Mark Yu <zyu347@uwo.ca> 1657041293 -0400	commit: Added breadcrumbs
+308077519cc0f03741c711a03cdf3fe6f8f16dee aea58c21c3917353640dffbff8dc737e4138e402 Mark Yu <zyu347@uwo.ca> 1657048080 -0400	commit: removing legacy redux folders
+aea58c21c3917353640dffbff8dc737e4138e402 1581d2719f8ce3a488d17b92f4c175a7f9470190 Mark Yu <zyu347@uwo.ca> 1657048149 -0400	commit: Connected Breadcrumb component with Folder and Modal
+1581d2719f8ce3a488d17b92f4c175a7f9470190 d6e5b5b945fe052eee5fdb7f72d9b7c5ccd3fa24 Mark Yu <zyu347@uwo.ca> 1657058357 -0400	commit: Fixed all bugs with modal bread crumbs
+d6e5b5b945fe052eee5fdb7f72d9b7c5ccd3fa24 dc6e89ce23afa18e1517de99e14c58c9871abc24 Mark Yu <zyu347@uwo.ca> 1657124655 -0400	commit: Removed unused badge component
+dc6e89ce23afa18e1517de99e14c58c9871abc24 3b2a9a30b65fa3d5ab9f493e57f78dfe13f7dede Mark Yu <zyu347@uwo.ca> 1657124805 -0400	commit: Supported fetching legend from any folder
+3b2a9a30b65fa3d5ab9f493e57f78dfe13f7dede 06c9e752123674db3c96fbc349801ba0c6a387e2 Mark Yu <zyu347@uwo.ca> 1657124835 -0400	commit: Removed unused Status card component
+06c9e752123674db3c96fbc349801ba0c6a387e2 15800cbae5325302eb776d3e8c0e06f09dc2bd09 Mark Yu <zyu347@uwo.ca> 1657233221 -0400	commit: Added navigation tab component for viewing leaf modal details
+15800cbae5325302eb776d3e8c0e06f09dc2bd09 c6a85ea7a897e2dfce75d1f0aa633ea63595c6af Mark Yu <zyu347@uwo.ca> 1657243220 -0400	commit: Impoved code quality
+c6a85ea7a897e2dfce75d1f0aa633ea63595c6af de23aa83d1adda0871eeba3e66c7a46fb5a62c69 Mark Yu <zyu347@uwo.ca> 1657247218 -0400	commit: Finished rendering of links and access in leaf modal
+de23aa83d1adda0871eeba3e66c7a46fb5a62c69 750a04b4c390d537cd36a43dd73d116e1b583aca Mark Yu <zyu347@uwo.ca> 1657420755 -0400	commit: Format legend
+750a04b4c390d537cd36a43dd73d116e1b583aca 932ec2606feb2207b3e30c6179bafe5fe1555118 Mark Yu <zyu347@uwo.ca> 1657485507 -0400	commit: Added function to display tally on each card
+932ec2606feb2207b3e30c6179bafe5fe1555118 10e639b890400b1139acf24be58b23f5b8816620 Mark Yu <zyu347@uwo.ca> 1657571786 -0400	commit: Installed apex charts
+10e639b890400b1139acf24be58b23f5b8816620 26ad7c865d4240c001c8a34b08b43c794cdc6e29 Mark Yu <zyu347@uwo.ca> 1657571810 -0400	commit: added preview option to folder
+26ad7c865d4240c001c8a34b08b43c794cdc6e29 26a0b038fd25ee08dfa6c301f75350edbe642971 Mark Yu <zyu347@uwo.ca> 1657591091 -0400	commit: Updated folder style
+26a0b038fd25ee08dfa6c301f75350edbe642971 124db89acb75d4c6c38f43df2c046182ea089a89 Mark Yu <zyu347@uwo.ca> 1657664401 -0400	commit: Fixed pie chart display
+124db89acb75d4c6c38f43df2c046182ea089a89 ea46635fd22ecd50b8b263b24915d5f9372dfbe9 Mark Yu <zyu347@uwo.ca> 1657729393 -0400	commit: Added styling for leaf modal content overview
+ea46635fd22ecd50b8b263b24915d5f9372dfbe9 6eca8b031f70a67d53c88a1a6dfe2fddb78ee8d8 Mark Yu <zyu347@uwo.ca> 1658020897 -0400	commit: changing fetched data to one layer above to accommodate for response header changes
+6eca8b031f70a67d53c88a1a6dfe2fddb78ee8d8 7943becf43f9e374f86105920d78d9cc67336a99 Mark Yu <zyu347@uwo.ca> 1658026927 -0400	commit: added functionality to located products by status easily
+7943becf43f9e374f86105920d78d9cc67336a99 0ed98a708531630fb8120fa5015e5692e079a77e Mark Yu <zyu347@uwo.ca> 1658030545 -0400	commit: added pie chart options and improved adaptability
+0ed98a708531630fb8120fa5015e5692e079a77e fba2c68f96358b48aa5350e5afe101d05d9cebdd Mark Yu <zyu347@uwo.ca> 1658070448 -0400	commit: fixed legend page after response format change
+fba2c68f96358b48aa5350e5afe101d05d9cebdd 9832b9e1eeb51b5d8446bcd596240a932ae7bbd2 Mark Yu <zyu347@uwo.ca> 1658073522 -0400	commit: implemented functionality to display status color
+9832b9e1eeb51b5d8446bcd596240a932ae7bbd2 f6690f9332fd8f626224f827a49e51b8bd7eb9cd Mark Yu <zyu347@uwo.ca> 1658087016 -0400	commit: implemented functionality to display status icon and optimized folder css
+f6690f9332fd8f626224f827a49e51b8bd7eb9cd 0adb2ea45b45daabd6c33c34be5d0adac6dc6d5b Mark Yu <zyu347@uwo.ca> 1658092402 -0400	commit: improved adaptability to different data and fixed displaying issues with leaf modal
+0adb2ea45b45daabd6c33c34be5d0adac6dc6d5b 777ab07c3ca8e5de3655c652b6922c0e11abf181 Mark Yu <zyu347@uwo.ca> 1658093221 -0400	commit: Accepting arrays as input for errors, links, connections
+777ab07c3ca8e5de3655c652b6922c0e11abf181 6a3ec9f53f072b04a4e5d47ca95721893f7ce637 Mark Yu <zyu347@uwo.ca> 1658099970 -0400	commit: passing connections data through parent child props
+6a3ec9f53f072b04a4e5d47ca95721893f7ce637 87903c579c47d6f1bce47d6bd6bc882197620ae7 Mark Yu <zyu347@uwo.ca> 1658101985 -0400	commit: Added functionality to navigate bi-directionally based on connections data
+87903c579c47d6f1bce47d6bd6bc882197620ae7 21ce7ad6d13642975ae0a36408d97dfaa444e14e Mark Yu <zyu347@uwo.ca> 1658160232 -0400	commit: Fixed breadcrumb display order issue
+21ce7ad6d13642975ae0a36408d97dfaa444e14e ed22ed0116b3f4d2579332e0335457d7f9455e97 Mark Yu <zyu347@uwo.ca> 1658181146 -0400	commit: fixed duplicate entry issue for status folders and fixed tallying function for etls components
+ed22ed0116b3f4d2579332e0335457d7f9455e97 8d63013a509f00e175e6af0ba281a99cfac270a5 Mark Yu <zyu347@uwo.ca> 1658184074 -0400	commit: added route based code splitting on router
+8d63013a509f00e175e6af0ba281a99cfac270a5 e2b7b81769ef483867da41c6d08a69fc5c5b3006 Mark Yu <zyu347@uwo.ca> 1658190484 -0400	commit: added comment and reorganized folder structure
+e2b7b81769ef483867da41c6d08a69fc5c5b3006 22667adab41c92c3f7600be706a2e70bbee67314 Mark Yu <zyu347@uwo.ca> 1658260599 -0400	commit: Added comments to leaf modal and updated testing libraries
+22667adab41c92c3f7600be706a2e70bbee67314 c7774fd6de458b6c16560556ac492aee2e4de31e Mark Yu <zyu347@uwo.ca> 1658266811 -0400	commit: reorganized/ renamed component names for clarity, and started adding unit tests
+c7774fd6de458b6c16560556ac492aee2e4de31e 2bb67acf8e459a2c835c21d07de39ad0668aca74 Mark Yu <zyu347@uwo.ca> 1658277672 -0400	commit: removed used files and reserved option for list view
+2bb67acf8e459a2c835c21d07de39ad0668aca74 421899bd9aa0367836ef46aae250c6f2cbac5f8c Mark Yu <zyu347@uwo.ca> 1658517495 -0400	commit: theme changes, updated ui structure into leaf folder components
+421899bd9aa0367836ef46aae250c6f2cbac5f8c 4803a15708a821229230c6d56d8d5b23b9ae765f Mark Yu <zyu347@uwo.ca> 1658609792 -0400	commit: update styling for leaf modal content, access, connections tab items
+4803a15708a821229230c6d56d8d5b23b9ae765f 0a9814975aa2b2eaeb83ab328804c5604802b4dc Mark Yu <zyu347@uwo.ca> 1658618595 -0400	commit: added status markers
+0a9814975aa2b2eaeb83ab328804c5604802b4dc 37527f83567ee42784a89bccc62c6f87317c8f41 Mark Yu <zyu347@uwo.ca> 1658633625 -0400	commit: added functionality to open and collapse sidebar
+37527f83567ee42784a89bccc62c6f87317c8f41 330da2392a92b2e0cb80e58ca7a7a383b3e27c18 Mark Yu <zyu347@uwo.ca> 1658687361 -0400	commit: Added react-window package
+330da2392a92b2e0cb80e58ca7a7a383b3e27c18 46d49286d111d3400f922d69f65e39165be4082d Mark Yu <zyu347@uwo.ca> 1658708242 -0400	commit: fixed modal blurry text, added button to render data using pagination
+46d49286d111d3400f922d69f65e39165be4082d c63cb7083835d901664d83addb11ac80a9a1f880 Mark Yu <zyu347@uwo.ca> 1658716040 -0400	commit: fixed breadcrumb display bug
+c63cb7083835d901664d83addb11ac80a9a1f880 a2bf1322941c44450f96864c2c8510519ca51a23 Mark Yu <zyu347@uwo.ca> 1658776208 -0400	commit: folder, leaf modal and legend page code optimization
+a2bf1322941c44450f96864c2c8510519ca51a23 6e729e074145f30cf4371125e404e8b28ed81a16 Mark Yu <zyu347@uwo.ca> 1658842347 -0400	commit: code cleanup
+6e729e074145f30cf4371125e404e8b28ed81a16 3c7cf4a9b636390b32dd9abc37ada8d9a29f1d5a Mark Yu <zyu347@uwo.ca> 1658927023 -0400	commit: added list view to leaf folder modal
+3c7cf4a9b636390b32dd9abc37ada8d9a29f1d5a 884ff1b2c50c6d80ef425fa5196ec840a7fcd866 Mark Yu <zyu347@uwo.ca> 1658950657 -0400	commit: removed boxicon as asset and imported newer version as cdn package
+884ff1b2c50c6d80ef425fa5196ec840a7fcd866 1d0e76cf2e36a33748e8c869788da908df200413 Mark Yu <zyu347@uwo.ca> 1659030319 -0400	commit: fixed all display errors after severity fields has been added to response
+1d0e76cf2e36a33748e8c869788da908df200413 1d0e76cf2e36a33748e8c869788da908df200413 Mark Yu <zyu347@uwo.ca> 1659382890 -0400	checkout: moving from personal-my-cpp-21186 to personal-my-cpp-21186
+1d0e76cf2e36a33748e8c869788da908df200413 6ae9edd4bb2dc8e822b764cd0958657085e0d40f Mark Yu <zyu347@uwo.ca> 1659585144 -0400	commit: Improved search and sort by color functionality
+6ae9edd4bb2dc8e822b764cd0958657085e0d40f 531369cc5f6190368ebef31c214659f04e16e978 Mark Yu <zyu347@uwo.ca> 1659636885 -0400	commit: code formatting
+531369cc5f6190368ebef31c214659f04e16e978 bd6ca5fccf1532178f01373d596435f97d18e0d4 Mark Yu <zyu347@uwo.ca> 1659908358 -0400	commit: Sorted order (based on severity) for deep search results, added functionality to monitor dropdown
+bd6ca5fccf1532178f01373d596435f97d18e0d4 643b52525d84c4b35e2ee0fd5c908e88e800d68b Mark Yu <zyu347@uwo.ca> 1659913605 -0400	commit: Added functionality to filter by connections name
+643b52525d84c4b35e2ee0fd5c908e88e800d68b 8b5b59d37f4c71f01c3d0a7a076ad0019be3cae8 Mark Yu <zyu347@uwo.ca> 1659999705 -0400	commit: Added pagination for FilterModal content
+8b5b59d37f4c71f01c3d0a7a076ad0019be3cae8 3be228757d7e942cce0f252d0b1b5f73d8f7b488 Mark Yu <zyu347@uwo.ca> 1660052303 -0400	commit: Error Handling for null uiStructures
+3be228757d7e942cce0f252d0b1b5f73d8f7b488 035d2fc470605147047ae1c87910369e919bdb81 Mark Yu <zyu347@uwo.ca> 1660152314 -0400	commit: filter modal text update
+035d2fc470605147047ae1c87910369e919bdb81 f111f1f61e1a10d5026d154e53f0957fb12f5901 Mark Yu <zyu347@uwo.ca> 1660328325 -0400	checkout: moving from personal-my-cpp-21186 to develop
+f111f1f61e1a10d5026d154e53f0957fb12f5901 65b84681c7aaa7a1cfd263e0774afea0c77f9659 Mark Yu <zyu347@uwo.ca> 1660328333 -0400	merge origin/develop: Fast-forward
+65b84681c7aaa7a1cfd263e0774afea0c77f9659 035d2fc470605147047ae1c87910369e919bdb81 Mark Yu <zyu347@uwo.ca> 1660509975 -0400	checkout: moving from develop to personal-my-cpp-21186
+035d2fc470605147047ae1c87910369e919bdb81 0fe1db8ba8333788327df1a70ba4b1e677ab0dfb Mark Yu <zyu347@uwo.ca> 1660584170 -0400	commit: Added scrollbar for overflowed tally item, and added sorting by severity first then alphabetically
+0fe1db8ba8333788327df1a70ba4b1e677ab0dfb 86d22e6b32a8c1b1eb4715510e147407a5f5b1e3 Mark Yu <zyu347@uwo.ca> 1660588010 -0400	commit: Improved search by treating special characters as wildcards
+86d22e6b32a8c1b1eb4715510e147407a5f5b1e3 089e9dbd07a82c36dbb6485771c01d801e2fc824 Mark Yu <zyu347@uwo.ca> 1660594755 -0400	commit: Added scrollbar position fetcher and dynamic scroll arrow display
+089e9dbd07a82c36dbb6485771c01d801e2fc824 90aacd0caede4d2959b2b3ab5d0481929973292a Mark Yu <zyu347@uwo.ca> 1661303848 -0400	commit: Added extra Error handling on filter modal
+90aacd0caede4d2959b2b3ab5d0481929973292a 3cd210a0636b32ed95b54d6362a03ca0e219f742 Mark Yu <zyu347@uwo.ca> 1661912772 -0400	commit: Fixed bug with color sorting
+3cd210a0636b32ed95b54d6362a03ca0e219f742 65b84681c7aaa7a1cfd263e0774afea0c77f9659 Mark Yu <zyu347@uwo.ca> 1662580186 -0400	checkout: moving from personal-my-cpp-21186 to develop
+65b84681c7aaa7a1cfd263e0774afea0c77f9659 f1de8d336f0efc6f27ffec4de604b7d96c7797fe Mark Yu <zyu347@uwo.ca> 1662580213 -0400	merge origin/develop: Fast-forward
+f1de8d336f0efc6f27ffec4de604b7d96c7797fe f1de8d336f0efc6f27ffec4de604b7d96c7797fe Mark Yu <zyu347@uwo.ca> 1662580216 -0400	branch: Reset to origin/develop
+f1de8d336f0efc6f27ffec4de604b7d96c7797fe f1de8d336f0efc6f27ffec4de604b7d96c7797fe Mark Yu <zyu347@uwo.ca> 1662580216 -0400	checkout: moving from develop to develop
+f1de8d336f0efc6f27ffec4de604b7d96c7797fe f1de8d336f0efc6f27ffec4de604b7d96c7797fe Mark Yu <zyu347@uwo.ca> 1662580220 -0400	branch: Reset to origin/develop
+f1de8d336f0efc6f27ffec4de604b7d96c7797fe f1de8d336f0efc6f27ffec4de604b7d96c7797fe Mark Yu <zyu347@uwo.ca> 1662580220 -0400	checkout: moving from develop to develop
+f1de8d336f0efc6f27ffec4de604b7d96c7797fe 3cd210a0636b32ed95b54d6362a03ca0e219f742 Mark Yu <zyu347@uwo.ca> 1662580231 -0400	checkout: moving from develop to personal-my-cpp-21186
+3cd210a0636b32ed95b54d6362a03ca0e219f742 f1de8d336f0efc6f27ffec4de604b7d96c7797fe Mark Yu <zyu347@uwo.ca> 1662580318 -0400	checkout: moving from personal-my-cpp-21186 to develop
+f1de8d336f0efc6f27ffec4de604b7d96c7797fe 3cd210a0636b32ed95b54d6362a03ca0e219f742 Mark Yu <zyu347@uwo.ca> 1662580471 -0400	checkout: moving from develop to feature-my-cpp-21184
+3cd210a0636b32ed95b54d6362a03ca0e219f742 0000000000000000000000000000000000000000 Mark Yu <zyu347@uwo.ca> 1662580728 -0400	Branch: renamed refs/heads/feature-my-cpp-21184 to refs/heads/personal-my-cpp-21184
+0000000000000000000000000000000000000000 3cd210a0636b32ed95b54d6362a03ca0e219f742 Mark Yu <zyu347@uwo.ca> 1662580728 -0400	Branch: renamed refs/heads/feature-my-cpp-21184 to refs/heads/personal-my-cpp-21184
+3cd210a0636b32ed95b54d6362a03ca0e219f742 f1de8d336f0efc6f27ffec4de604b7d96c7797fe Mark Yu <zyu347@uwo.ca> 1662580752 -0400	checkout: moving from personal-my-cpp-21184 to feature-my-cpp-21184
+f1de8d336f0efc6f27ffec4de604b7d96c7797fe b22cb5a313d1ab887cc5b35a3db4b00cf56ab8b0 Mark Yu <zyu347@uwo.ca> 1662580768 -0400	merge personal-my-cpp-21184: Merge made by the 'ort' strategy.
+b22cb5a313d1ab887cc5b35a3db4b00cf56ab8b0 5a3fcb8b668f6b7cc69e34db2bad1b85e2ab5f6d Mark Yu <zyu347@uwo.ca> 1662602964 -0400	commit: Hiding invalid connections that have missing components
+5a3fcb8b668f6b7cc69e34db2bad1b85e2ab5f6d 93cf44efb2672af133b1639a013b2685ebd58ec6 Mark Yu <zyu347@uwo.ca> 1662949553 -0400	commit: Fixed leafmodal useEffect bug
+93cf44efb2672af133b1639a013b2685ebd58ec6 a58fe96834e9831cff64933b61572896a8f28b00 Mark Yu <zyu347@uwo.ca> 1662999101 -0400	commit: Removed wireframe pngs
+a58fe96834e9831cff64933b61572896a8f28b00 f1de8d336f0efc6f27ffec4de604b7d96c7797fe Mark Yu <zyu347@uwo.ca> 1663257588 -0400	checkout: moving from feature-my-cpp-21184 to develop
+f1de8d336f0efc6f27ffec4de604b7d96c7797fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1663257596 -0400	merge origin/develop: Fast-forward
+06672e512885cf2008117439af8e1f4344f7e3fe 14fc97be9b75d7acd13496ffcf261a6f3ca38d12 Mark Yu <zyu347@uwo.ca> 1663258263 -0400	checkout: moving from develop to release-1.0.1
+14fc97be9b75d7acd13496ffcf261a6f3ca38d12 821976949a787d130c1ecefc4dbfb6a0b838ff31 Mark Yu <zyu347@uwo.ca> 1663264451 -0400	merge origin/release-1.0.1: Fast-forward
+821976949a787d130c1ecefc4dbfb6a0b838ff31 3c273468eae0fee8fbe3687e256d72bb6ae6d6b2 Mark Yu <zyu347@uwo.ca> 1663268707 -0400	commit: Synchronized lock files and fixing pom deployment error
+3c273468eae0fee8fbe3687e256d72bb6ae6d6b2 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1663268909 -0400	checkout: moving from release-1.0.1 to feature-my-cpp-21190
+06672e512885cf2008117439af8e1f4344f7e3fe ff3cbc924338099382c7bc8bb2796d9602a269a0 Mark Yu <zyu347@uwo.ca> 1663269389 -0400	commit (merge): Synchronized lock files and fixing pom deployment error
+ff3cbc924338099382c7bc8bb2796d9602a269a0 201789b624a1a5c8efc46bf47c3b48a39fd7fafb Mark Yu <zyu347@uwo.ca> 1663272390 -0400	commit: Updated Pom to copy over build output from src/ into staging directory
+201789b624a1a5c8efc46bf47c3b48a39fd7fafb 3c273468eae0fee8fbe3687e256d72bb6ae6d6b2 Mark Yu <zyu347@uwo.ca> 1663355466 -0400	checkout: moving from feature-my-cpp-21190 to release-1.0.1
+3c273468eae0fee8fbe3687e256d72bb6ae6d6b2 04f99c22dd84e5e23c838c1331abbff69d3350ed Mark Yu <zyu347@uwo.ca> 1663355475 -0400	merge origin/release-1.0.1: Fast-forward
+04f99c22dd84e5e23c838c1331abbff69d3350ed 201789b624a1a5c8efc46bf47c3b48a39fd7fafb Mark Yu <zyu347@uwo.ca> 1663356006 -0400	checkout: moving from release-1.0.1 to feature-my-cpp-21190
+201789b624a1a5c8efc46bf47c3b48a39fd7fafb 70eed53c4036d11764b0265c76675de766dd5e74 Mark Yu <zyu347@uwo.ca> 1663356114 -0400	checkout: moving from feature-my-cpp-21190 to personal-cc
+70eed53c4036d11764b0265c76675de766dd5e74 201789b624a1a5c8efc46bf47c3b48a39fd7fafb Mark Yu <zyu347@uwo.ca> 1663356807 -0400	checkout: moving from personal-cc to feature-my-cpp-21190
+201789b624a1a5c8efc46bf47c3b48a39fd7fafb 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1663950621 -0400	checkout: moving from feature-my-cpp-21190 to feature-my-cpp-22075
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1663957020 -0400	checkout: moving from feature-my-cpp-22075 to develop
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1663957036 -0400	checkout: moving from develop to feature-my-cpp-22075
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1663957250 -0400	checkout: moving from feature-my-cpp-22075 to develop
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1663957308 -0400	checkout: moving from develop to feature-my-cpp-22074
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1663957384 -0400	checkout: moving from feature-my-cpp-22074 to develop
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1663957456 -0400	checkout: moving from develop to feature-my-cpp-22075
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1664218164 -0400	checkout: moving from feature-my-cpp-22075 to develop
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1664218321 -0400	checkout: moving from develop to feature-my-cpp-22074
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1664218336 -0400	checkout: moving from feature-my-cpp-22074 to feature-my-cpp-22075
+06672e512885cf2008117439af8e1f4344f7e3fe 81fa4142df461d1a919ef70110e1eccd1e9088d1 Mark Yu <zyu347@uwo.ca> 1664221824 -0400	commit: hiding thing that are not working, started working on breadcrumbs to make them clickable
+81fa4142df461d1a919ef70110e1eccd1e9088d1 b4bda27835b74256d2d7ce4d39dd1a10f05059ca Mark Yu <zyu347@uwo.ca> 1664274824 -0400	commit: Added null response handling to dashboard and legend page
+b4bda27835b74256d2d7ce4d39dd1a10f05059ca 082c366f49cd51a4103192b1d2783de9210184ed Mark Yu <zyu347@uwo.ca> 1664275166 -0400	checkout: moving from feature-my-cpp-22075 to release-1.0.0
+082c366f49cd51a4103192b1d2783de9210184ed 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1664465905 -0400	checkout: moving from release-1.0.0 to develop
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1664466052 -0400	branch: Reset to origin/develop
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1664466052 -0400	checkout: moving from develop to develop
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1664466116 -0400	checkout: moving from develop to feature-my-cpp-19838
+06672e512885cf2008117439af8e1f4344f7e3fe 4cf8c0ed8df341457171e20d049dfde6de44ddc1 Mark Yu <zyu347@uwo.ca> 1664482852 -0400	commit: Added more colors so that it would match all available color values from BS
+4cf8c0ed8df341457171e20d049dfde6de44ddc1 e6dc7272cfe644c05f96606a089ef7c7d71d8ab6 Mark Yu <zyu347@uwo.ca> 1664507278 -0400	commit: Fixed tallying bug for ETL component
+e6dc7272cfe644c05f96606a089ef7c7d71d8ab6 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1664546652 -0400	checkout: moving from feature-my-cpp-19838 to feature-my-cpp-22074
+06672e512885cf2008117439af8e1f4344f7e3fe 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1664546870 -0400	checkout: moving from feature-my-cpp-22074 to develop
+06672e512885cf2008117439af8e1f4344f7e3fe b7653b70be0dbe7e6e89803f78179863ebe57a14 Mark Yu <zyu347@uwo.ca> 1664546896 -0400	merge origin/develop: Fast-forward
+b7653b70be0dbe7e6e89803f78179863ebe57a14 b7653b70be0dbe7e6e89803f78179863ebe57a14 Mark Yu <zyu347@uwo.ca> 1664547187 -0400	branch: Reset to origin/develop
+b7653b70be0dbe7e6e89803f78179863ebe57a14 b7653b70be0dbe7e6e89803f78179863ebe57a14 Mark Yu <zyu347@uwo.ca> 1664547187 -0400	checkout: moving from develop to develop
+b7653b70be0dbe7e6e89803f78179863ebe57a14 b4bda27835b74256d2d7ce4d39dd1a10f05059ca Mark Yu <zyu347@uwo.ca> 1664547553 -0400	checkout: moving from develop to feature-my-cpp-22075
+b4bda27835b74256d2d7ce4d39dd1a10f05059ca b7653b70be0dbe7e6e89803f78179863ebe57a14 Mark Yu <zyu347@uwo.ca> 1664551344 -0400	checkout: moving from feature-my-cpp-22075 to develop
+b7653b70be0dbe7e6e89803f78179863ebe57a14 b7653b70be0dbe7e6e89803f78179863ebe57a14 Mark Yu <zyu347@uwo.ca> 1664551567 -0400	branch: Reset to origin/develop
+b7653b70be0dbe7e6e89803f78179863ebe57a14 b7653b70be0dbe7e6e89803f78179863ebe57a14 Mark Yu <zyu347@uwo.ca> 1664551567 -0400	checkout: moving from develop to develop
+b7653b70be0dbe7e6e89803f78179863ebe57a14 b4bda27835b74256d2d7ce4d39dd1a10f05059ca Mark Yu <zyu347@uwo.ca> 1664552074 -0400	checkout: moving from develop to feature-my-cpp-22075
+b4bda27835b74256d2d7ce4d39dd1a10f05059ca b4bda27835b74256d2d7ce4d39dd1a10f05059ca Mark Yu <zyu347@uwo.ca> 1664552127 -0400	branch: Reset to origin/feature-my-cpp-22075
+b4bda27835b74256d2d7ce4d39dd1a10f05059ca b4bda27835b74256d2d7ce4d39dd1a10f05059ca Mark Yu <zyu347@uwo.ca> 1664552127 -0400	checkout: moving from feature-my-cpp-22075 to feature-my-cpp-22075
+b4bda27835b74256d2d7ce4d39dd1a10f05059ca b7653b70be0dbe7e6e89803f78179863ebe57a14 Mark Yu <zyu347@uwo.ca> 1664552703 -0400	checkout: moving from feature-my-cpp-22075 to develop
+b7653b70be0dbe7e6e89803f78179863ebe57a14 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1664552818 -0400	checkout: moving from develop to feature-my-cpp-22074
+06672e512885cf2008117439af8e1f4344f7e3fe b7653b70be0dbe7e6e89803f78179863ebe57a14 Mark Yu <zyu347@uwo.ca> 1664560597 -0400	checkout: moving from feature-my-cpp-22074 to develop
+b7653b70be0dbe7e6e89803f78179863ebe57a14 b4bda27835b74256d2d7ce4d39dd1a10f05059ca Mark Yu <zyu347@uwo.ca> 1664560728 -0400	checkout: moving from develop to feature-my-cpp-22075
+b4bda27835b74256d2d7ce4d39dd1a10f05059ca b7653b70be0dbe7e6e89803f78179863ebe57a14 Mark Yu <zyu347@uwo.ca> 1664560850 -0400	checkout: moving from feature-my-cpp-22075 to develop
+b7653b70be0dbe7e6e89803f78179863ebe57a14 b7653b70be0dbe7e6e89803f78179863ebe57a14 Mark Yu <zyu347@uwo.ca> 1664561132 -0400	rebase (start): checkout origin/develop^0
+b7653b70be0dbe7e6e89803f78179863ebe57a14 f7adc070fafa087ed553bf94d01bbfb4382ad731 Mark Yu <zyu347@uwo.ca> 1664561132 -0400	rebase (pick): hiding thing that are not working, started working on breadcrumbs to make them clickable
+f7adc070fafa087ed553bf94d01bbfb4382ad731 127c42e3966f95c751b13fd2a25ebb3ced16b2fc Mark Yu <zyu347@uwo.ca> 1664561529 -0400	rebase (continue): Added null response handling to dashboard and legend page
+127c42e3966f95c751b13fd2a25ebb3ced16b2fc 127c42e3966f95c751b13fd2a25ebb3ced16b2fc Mark Yu <zyu347@uwo.ca> 1664561541 -0400	rebase (continue) (finish): returning to refs/heads/feature-my-cpp-22075
+127c42e3966f95c751b13fd2a25ebb3ced16b2fc a9357661d091ae19f9612f1772e041028cb8efe9 Mark Yu <zyu347@uwo.ca> 1664561682 -0400	commit (merge): Merge remote-tracking branch 'origin/feature-my-cpp-22075' into feature-my-cpp-22075
+a9357661d091ae19f9612f1772e041028cb8efe9 42f3c0ea9bce248683672fefc6d9168b2b22b5e8 Mark Yu <zyu347@uwo.ca> 1664568756 -0400	commit: cleaned up / hidden items that are currently not in use
+42f3c0ea9bce248683672fefc6d9168b2b22b5e8 eae1fac80ff0554d497ee0da30f6690d647041ea Mark Yu <zyu347@uwo.ca> 1664759766 -0400	commit: Fetching connections' data using .REACT_APP_BS_URL
+eae1fac80ff0554d497ee0da30f6690d647041ea 04b52d3e601df9ab8009ccb42da6fe1ddd622bec Mark Yu <zyu347@uwo.ca> 1664761829 -0400	commit: Calling /update on interval to keep etl alive
+04b52d3e601df9ab8009ccb42da6fe1ddd622bec 3f76c6581b80bcdb230596ba53233f2d3d14643d Mark Yu <zyu347@uwo.ca> 1664826917 -0400	commit: Removed Strict mode and configured dynamic url
+3f76c6581b80bcdb230596ba53233f2d3d14643d 6a025c3ce41208f033c43bf0639d98e60caa4fdc Mark Yu <zyu347@uwo.ca> 1664911998 -0400	commit: Made breadcrumbs clickable
+6a025c3ce41208f033c43bf0639d98e60caa4fdc 453a9a731b835cca9867c9cf4872cddb0216c55b Mark Yu <zyu347@uwo.ca> 1664918585 -0400	commit: code clean up
+453a9a731b835cca9867c9cf4872cddb0216c55b a1ea359ec067f76277a46a0e81ce355a5829cc1b Mark Yu <zyu347@uwo.ca> 1665000195 -0400	commit: call update on mount
+a1ea359ec067f76277a46a0e81ce355a5829cc1b a1ea359ec067f76277a46a0e81ce355a5829cc1b Mark Yu <zyu347@uwo.ca> 1665002387 -0400	checkout: moving from feature-my-cpp-22075 to feature-my-cpp-22173
+a1ea359ec067f76277a46a0e81ce355a5829cc1b a021940225b6d3b1ab2aea4420d64f5a16a52059 Mark Yu <zyu347@uwo.ca> 1665009081 -0400	commit: Fixed theme button minor display bug
+a021940225b6d3b1ab2aea4420d64f5a16a52059 9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 Mark Yu <zyu347@uwo.ca> 1665066905 -0400	commit: Fixed total file count not equals to total number of items with statuses.
+9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 b7653b70be0dbe7e6e89803f78179863ebe57a14 Mark Yu <zyu347@uwo.ca> 1665068268 -0400	checkout: moving from feature-my-cpp-22173 to develop
+b7653b70be0dbe7e6e89803f78179863ebe57a14 2c26b675aba3934210fa4a382ceef2f2b23d2300 Mark Yu <zyu347@uwo.ca> 1665068312 -0400	merge origin/develop: Fast-forward
+2c26b675aba3934210fa4a382ceef2f2b23d2300 9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 Mark Yu <zyu347@uwo.ca> 1665068653 -0400	checkout: moving from develop to feature-my-cpp-22173
+9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 2c26b675aba3934210fa4a382ceef2f2b23d2300 Mark Yu <zyu347@uwo.ca> 1665068673 -0400	checkout: moving from feature-my-cpp-22173 to develop
+2c26b675aba3934210fa4a382ceef2f2b23d2300 9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 Mark Yu <zyu347@uwo.ca> 1665069191 -0400	checkout: moving from develop to feature-my-cpp-22173
+9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 dabb18e07d1c463ada405f906da2a2127a666558 Mark Yu <zyu347@uwo.ca> 1665069287 -0400	checkout: moving from feature-my-cpp-22173 to master
+dabb18e07d1c463ada405f906da2a2127a666558 2c26b675aba3934210fa4a382ceef2f2b23d2300 Mark Yu <zyu347@uwo.ca> 1665069320 -0400	checkout: moving from master to develop
+2c26b675aba3934210fa4a382ceef2f2b23d2300 2c26b675aba3934210fa4a382ceef2f2b23d2300 Mark Yu <zyu347@uwo.ca> 1665083143 -0400	branch: Reset to origin/develop
+2c26b675aba3934210fa4a382ceef2f2b23d2300 2c26b675aba3934210fa4a382ceef2f2b23d2300 Mark Yu <zyu347@uwo.ca> 1665083143 -0400	checkout: moving from develop to develop
+2c26b675aba3934210fa4a382ceef2f2b23d2300 2c26b675aba3934210fa4a382ceef2f2b23d2300 Mark Yu <zyu347@uwo.ca> 1665083152 -0400	branch: Reset to origin/develop
+2c26b675aba3934210fa4a382ceef2f2b23d2300 2c26b675aba3934210fa4a382ceef2f2b23d2300 Mark Yu <zyu347@uwo.ca> 1665083152 -0400	checkout: moving from develop to develop
+2c26b675aba3934210fa4a382ceef2f2b23d2300 9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 Mark Yu <zyu347@uwo.ca> 1665083358 -0400	rebase (start): checkout origin/feature-my-cpp-22173
+9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 Mark Yu <zyu347@uwo.ca> 1665083358 -0400	rebase (finish): returning to refs/heads/develop
+9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 b854d4a7e72be1642914842b49c35ca5c3b60a84 Mark Yu <zyu347@uwo.ca> 1665083413 -0400	merge origin/develop: Merge made by the 'recursive' strategy.
+b854d4a7e72be1642914842b49c35ca5c3b60a84 9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 Mark Yu <zyu347@uwo.ca> 1665083489 -0400	checkout: moving from develop to feature-my-cpp-22173
+9281804d65a63d81ee3f2932cdf2a89ee67fa9c2 2c26b675aba3934210fa4a382ceef2f2b23d2300 Mark Yu <zyu347@uwo.ca> 1665083856 -0400	checkout: moving from feature-my-cpp-22173 to develop
+2c26b675aba3934210fa4a382ceef2f2b23d2300 2c26b675aba3934210fa4a382ceef2f2b23d2300 Mark Yu <zyu347@uwo.ca> 1665084186 -0400	checkout: moving from develop to feature-my-cpp-22173
+2c26b675aba3934210fa4a382ceef2f2b23d2300 1d085489f41dc59910940405cf36812a32681c2b Mark Yu <zyu347@uwo.ca> 1665084562 -0400	commit: Fixed total file count not equals to total number of items with statuses.
+1d085489f41dc59910940405cf36812a32681c2b 1d085489f41dc59910940405cf36812a32681c2b Mark Yu <zyu347@uwo.ca> 1665084722 -0400	rebase: checkout feature-my-cpp-22173
+1d085489f41dc59910940405cf36812a32681c2b 1d085489f41dc59910940405cf36812a32681c2b Mark Yu <zyu347@uwo.ca> 1665084722 -0400	rebase: checkout feature-my-cpp-22173
+1d085489f41dc59910940405cf36812a32681c2b 2c26b675aba3934210fa4a382ceef2f2b23d2300 Mark Yu <zyu347@uwo.ca> 1665422836 -0400	checkout: moving from feature-my-cpp-22173 to feature-my-cpp-22078
+2c26b675aba3934210fa4a382ceef2f2b23d2300 0000000000000000000000000000000000000000 Mark Yu <zyu347@uwo.ca> 1665444183 -0400	Branch: renamed refs/heads/feature-my-cpp-22078 to refs/heads/feature-my-cpp-22078-test
+0000000000000000000000000000000000000000 2c26b675aba3934210fa4a382ceef2f2b23d2300 Mark Yu <zyu347@uwo.ca> 1665444183 -0400	Branch: renamed refs/heads/feature-my-cpp-22078 to refs/heads/feature-my-cpp-22078-test
+2c26b675aba3934210fa4a382ceef2f2b23d2300 1d085489f41dc59910940405cf36812a32681c2b Mark Yu <zyu347@uwo.ca> 1665444375 -0400	checkout: moving from feature-my-cpp-22078-test to feature-my-cpp-22078
+1d085489f41dc59910940405cf36812a32681c2b a7416dedaad306b5670eeccaafba81a869801480 Mark Yu <zyu347@uwo.ca> 1665544985 -0400	commit: Flipped environment filtered for multiple components
+a7416dedaad306b5670eeccaafba81a869801480 687b68ab91c4f6eed5d47778c2123c2390bfff10 Mark Yu <zyu347@uwo.ca> 1665592528 -0400	commit: extracted folder width as a state variable
+687b68ab91c4f6eed5d47778c2123c2390bfff10 c18f57d3f4425ce079d07e2df5231f4ca9e963f0 Mark Yu <zyu347@uwo.ca> 1666027257 -0400	commit: Adding filtering method
+c18f57d3f4425ce079d07e2df5231f4ca9e963f0 c18f57d3f4425ce079d07e2df5231f4ca9e963f0 Mark Yu <zyu347@uwo.ca> 1666027537 -0400	rebase: checkout feature-my-cpp-22078
+c18f57d3f4425ce079d07e2df5231f4ca9e963f0 c18f57d3f4425ce079d07e2df5231f4ca9e963f0 Mark Yu <zyu347@uwo.ca> 1666027537 -0400	rebase: checkout feature-my-cpp-22078
+c18f57d3f4425ce079d07e2df5231f4ca9e963f0 73fc8af9a7a0146a5ecd1b53778b7d3c07094128 Mark Yu <zyu347@uwo.ca> 1666027649 -0400	merge origin/develop: Merge made by the 'recursive' strategy.
+73fc8af9a7a0146a5ecd1b53778b7d3c07094128 dba787cf6dca691986d119bd1468bd93a7a7095d Mark Yu <zyu347@uwo.ca> 1666032708 -0400	commit: Added result count to status color filter
+dba787cf6dca691986d119bd1468bd93a7a7095d 0000000000000000000000000000000000000000 Mark Yu <zyu347@uwo.ca> 1666033072 -0400	Branch: renamed refs/heads/feature-my-cpp-22078 to refs/heads/feature-my-cpp-22078-test
+0000000000000000000000000000000000000000 dba787cf6dca691986d119bd1468bd93a7a7095d Mark Yu <zyu347@uwo.ca> 1666033072 -0400	Branch: renamed refs/heads/feature-my-cpp-22078 to refs/heads/feature-my-cpp-22078-test
+dba787cf6dca691986d119bd1468bd93a7a7095d ed403966bac8e3f3a99f8c9e43a631e4f7ff52f7 Mark Yu <zyu347@uwo.ca> 1666033239 -0400	checkout: moving from feature-my-cpp-22078-test to feature-my-cpp-22078
+ed403966bac8e3f3a99f8c9e43a631e4f7ff52f7 dba787cf6dca691986d119bd1468bd93a7a7095d Mark Yu <zyu347@uwo.ca> 1666033314 -0400	merge feature-my-cpp-22078-test: Fast-forward
+dba787cf6dca691986d119bd1468bd93a7a7095d 4cc6824af42a8a494f7a2641159e594303d1e699 Mark Yu <zyu347@uwo.ca> 1666037296 -0400	commit: Added default case response and adjusted handle connection logic
+4cc6824af42a8a494f7a2641159e594303d1e699 83de29941f677dd7b2b86abcc63914f2f3f28e1f Mark Yu <zyu347@uwo.ca> 1666055719 -0400	commit: Added database filter
+83de29941f677dd7b2b86abcc63914f2f3f28e1f 83554e66214908d92e05c9772421084ce1e9d30b Mark Yu <zyu347@uwo.ca> 1666117080 -0400	commit: Added database filter
+83554e66214908d92e05c9772421084ce1e9d30b 1d085489f41dc59910940405cf36812a32681c2b Mark Yu <zyu347@uwo.ca> 1666117103 -0400	checkout: moving from feature-my-cpp-22078 to feature-my-cpp-22173
+1d085489f41dc59910940405cf36812a32681c2b b62e1010535137a7144420a486dc96e0285b9ba9 Mark Yu <zyu347@uwo.ca> 1666117163 -0400	commit: TEST
+b62e1010535137a7144420a486dc96e0285b9ba9 ed403966bac8e3f3a99f8c9e43a631e4f7ff52f7 Mark Yu <zyu347@uwo.ca> 1666117903 -0400	checkout: moving from feature-my-cpp-22173 to feature-my-cpp-22078-
+ed403966bac8e3f3a99f8c9e43a631e4f7ff52f7 a9b531e4af9d18a600b5e1ad6311f3dba3e573fd Mark Yu <zyu347@uwo.ca> 1666117964 -0400	commit: typo
+a9b531e4af9d18a600b5e1ad6311f3dba3e573fd 83554e66214908d92e05c9772421084ce1e9d30b Mark Yu <zyu347@uwo.ca> 1666118868 -0400	checkout: moving from feature-my-cpp-22078- to feature-my-cpp-22078
+83554e66214908d92e05c9772421084ce1e9d30b e0f70f7648a9630598a6d810d49493de8e1c149c Mark Yu <zyu347@uwo.ca> 1666133854 -0400	commit: Fixed grafana filter bug
+e0f70f7648a9630598a6d810d49493de8e1c149c 002d4f2f011f1e31bd6ea633d572997226d56cae Mark Yu <zyu347@uwo.ca> 1666140943 -0400	commit: Added functionality to filter connections by environment
+002d4f2f011f1e31bd6ea633d572997226d56cae 2e8f3921c7570fcdffe08d47400e7e39b9ae20e5 Mark Yu <zyu347@uwo.ca> 1666192993 -0400	commit: Fixed warnings
+2e8f3921c7570fcdffe08d47400e7e39b9ae20e5 d73e9377e45bdcbb1bceb83254e0a971f2709807 Mark Yu <zyu347@uwo.ca> 1666203550 -0400	commit: Fixed warnings
+d73e9377e45bdcbb1bceb83254e0a971f2709807 2151cebf5f29280fa13f7ec1524f22a4080ecc6f Mark Yu <zyu347@uwo.ca> 1666793275 -0400	checkout: moving from feature-my-cpp-22078 to develop
+2151cebf5f29280fa13f7ec1524f22a4080ecc6f 2151cebf5f29280fa13f7ec1524f22a4080ecc6f Mark Yu <zyu347@uwo.ca> 1667325545 -0400	branch: Reset to origin/develop
+2151cebf5f29280fa13f7ec1524f22a4080ecc6f 2151cebf5f29280fa13f7ec1524f22a4080ecc6f Mark Yu <zyu347@uwo.ca> 1667325545 -0400	checkout: moving from develop to develop
+2151cebf5f29280fa13f7ec1524f22a4080ecc6f 2151cebf5f29280fa13f7ec1524f22a4080ecc6f Mark Yu <zyu347@uwo.ca> 1667325685 -0400	checkout: moving from develop to feature-my-cpp-22257
+2151cebf5f29280fa13f7ec1524f22a4080ecc6f 1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be Mark Yu <zyu347@uwo.ca> 1667325852 -0400	checkout: moving from feature-my-cpp-22257 to release-1.0.1
+1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be 1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be Mark Yu <zyu347@uwo.ca> 1667325958 -0400	branch: Reset to origin/release-1.0.1
+1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be 1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be Mark Yu <zyu347@uwo.ca> 1667325958 -0400	checkout: moving from release-1.0.1 to release-1.0.1
+1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be 6929150f9393d673ce4ed7073e7df9a01cb0dc04 Mark.Yu <mark.yu@jdpa.com> 1667837171 -0500	checkout: moving from release-1.0.1 to feature-my-cpp-22078
+6929150f9393d673ce4ed7073e7df9a01cb0dc04 92bf341072ce72b6abb6e5cb2ea54479d9090421 Mark.Yu <mark.yu@jdpa.com> 1667837244 -0500	commit: grafana QA filter bug fix
+92bf341072ce72b6abb6e5cb2ea54479d9090421 9c1730ba06e1d5628c7e20b80b8b8ae50365d58d Mark.Yu <mark.yu@jdpa.com> 1667847128 -0500	checkout: moving from feature-my-cpp-22078 to release-1.0.2
+9c1730ba06e1d5628c7e20b80b8b8ae50365d58d 1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be Mark.Yu <mark.yu@jdpa.com> 1667848164 -0500	checkout: moving from release-1.0.2 to release-1.0.1
+1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be 9c1730ba06e1d5628c7e20b80b8b8ae50365d58d Mark.Yu <mark.yu@jdpa.com> 1667848706 -0500	checkout: moving from release-1.0.1 to release-1.0.2
+9c1730ba06e1d5628c7e20b80b8b8ae50365d58d 92bf341072ce72b6abb6e5cb2ea54479d9090421 Mark.Yu <mark.yu@jdpa.com> 1667848808 -0500	checkout: moving from release-1.0.2 to feature-my-cpp-22078
+92bf341072ce72b6abb6e5cb2ea54479d9090421 1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be Mark.Yu <mark.yu@jdpa.com> 1667849379 -0500	checkout: moving from feature-my-cpp-22078 to release-1.0.1
+1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be 9c1730ba06e1d5628c7e20b80b8b8ae50365d58d Mark.Yu <mark.yu@jdpa.com> 1667849600 -0500	checkout: moving from release-1.0.1 to release-1.0.2
+9c1730ba06e1d5628c7e20b80b8b8ae50365d58d 92bf341072ce72b6abb6e5cb2ea54479d9090421 Mark.Yu <mark.yu@jdpa.com> 1667849710 -0500	checkout: moving from release-1.0.2 to feature-my-cpp-22078
+92bf341072ce72b6abb6e5cb2ea54479d9090421 1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be Mark.Yu <mark.yu@jdpa.com> 1667850678 -0500	checkout: moving from feature-my-cpp-22078 to release-1.0.1
+1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be 92bf341072ce72b6abb6e5cb2ea54479d9090421 Mark.Yu <mark.yu@jdpa.com> 1667877747 -0500	checkout: moving from release-1.0.1 to feature-my-cpp-22078
+92bf341072ce72b6abb6e5cb2ea54479d9090421 1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be Mark.Yu <mark.yu@jdpa.com> 1667879026 -0500	checkout: moving from feature-my-cpp-22078 to release-1.0.1
+1cc89dbfa8e7b6bb48ba77e66d799bfd573ca7be 92bf341072ce72b6abb6e5cb2ea54479d9090421 Mark.Yu <mark.yu@jdpa.com> 1667879190 -0500	checkout: moving from release-1.0.1 to feature-my-cpp-22078
+92bf341072ce72b6abb6e5cb2ea54479d9090421 81f27a549c34488df31235cb0c67ad93f385d3f3 Mark.Yu <mark.yu@jdpa.com> 1667879772 -0500	commit: updated pom and synced lock files
+81f27a549c34488df31235cb0c67ad93f385d3f3 87063b26afe68149c87cb8aa43e81baf39eedcb4 Mark.Yu <mark.yu@jdpa.com> 1667946474 -0500	merge origin/develop: Merge made by the 'recursive' strategy.
+87063b26afe68149c87cb8aa43e81baf39eedcb4 ec393ffe8db558a33dc3f3293ab2d60ec556d3d0 Mark.Yu <mark.yu@jdpa.com> 1668186429 -0500	checkout: moving from feature-my-cpp-22078 to release-1.0.2
+ec393ffe8db558a33dc3f3293ab2d60ec556d3d0 9c1730ba06e1d5628c7e20b80b8b8ae50365d58d Mark.Yu <mark.yu@jdpa.com> 1668802174 -0500	checkout: moving from release-1.0.2 to develop
+9c1730ba06e1d5628c7e20b80b8b8ae50365d58d 17171256dea511a933fbafad9e2159198831cde9 Mark.Yu <mark.yu@jdpa.com> 1668802207 -0500	merge origin/develop: Fast-forward
+17171256dea511a933fbafad9e2159198831cde9 6cac871460c7bdfb6ceaeef952b395c60a038d27 Mark.Yu <mark.yu@jdpa.com> 1668802227 -0500	checkout: moving from develop to gitlab-test
+6cac871460c7bdfb6ceaeef952b395c60a038d27 ec393ffe8db558a33dc3f3293ab2d60ec556d3d0 Mark.Yu <mark.yu@jdpa.com> 1669348802 -0500	checkout: moving from gitlab-test to release-1.0.2
+ec393ffe8db558a33dc3f3293ab2d60ec556d3d0 be999e8b2fcdfc5402e53fc8597a89bd08d91da2 Mark.Yu <mark.yu@jdpa.com> 1669348828 -0500	merge origin/release-1.0.2: Fast-forward
+be999e8b2fcdfc5402e53fc8597a89bd08d91da2 6cac871460c7bdfb6ceaeef952b395c60a038d27 Mark.Yu <mark.yu@jdpa.com> 1669583117 -0500	checkout: moving from release-1.0.2 to gitlab-test
+6cac871460c7bdfb6ceaeef952b395c60a038d27 be999e8b2fcdfc5402e53fc8597a89bd08d91da2 Mark.Yu <mark.yu@jdpa.com> 1670344235 -0500	checkout: moving from gitlab-test to release-1.0.2
+be999e8b2fcdfc5402e53fc8597a89bd08d91da2 be999e8b2fcdfc5402e53fc8597a89bd08d91da2 Mark.Yu <mark.yu@jdpa.com> 1670344240 -0500	checkout: moving from release-1.0.2 to release-1.0.2
+be999e8b2fcdfc5402e53fc8597a89bd08d91da2 1573b892f19b6a9ae73bc1cf52afa6de82d0fcf6 Mark.Yu <mark.yu@jdpa.com> 1672802352 -0500	merge origin/release-1.0.2: Fast-forward
+1573b892f19b6a9ae73bc1cf52afa6de82d0fcf6 17171256dea511a933fbafad9e2159198831cde9 Mark.Yu <mark.yu@jdpa.com> 1672802390 -0500	checkout: moving from release-1.0.2 to develop
+17171256dea511a933fbafad9e2159198831cde9 0ecad9070b8e96ab50430a5834d2587f5eb3cbe2 Mark.Yu <mark.yu@jdpa.com> 1674325802 -0500	merge origin/develop: Fast-forward
+0ecad9070b8e96ab50430a5834d2587f5eb3cbe2 0ecad9070b8e96ab50430a5834d2587f5eb3cbe2 Mark.Yu <mark.yu@jdpa.com> 1674328402 -0500	checkout: moving from develop to feature-my-cpp-22949
+0ecad9070b8e96ab50430a5834d2587f5eb3cbe2 1573b892f19b6a9ae73bc1cf52afa6de82d0fcf6 Mark.Yu <mark.yu@jdpa.com> 1674329524 -0500	checkout: moving from feature-my-cpp-22949 to release-1.0.2
+1573b892f19b6a9ae73bc1cf52afa6de82d0fcf6 0ecad9070b8e96ab50430a5834d2587f5eb3cbe2 Mark.Yu <mark.yu@jdpa.com> 1674332082 -0500	checkout: moving from release-1.0.2 to develop
+0ecad9070b8e96ab50430a5834d2587f5eb3cbe2 0ecad9070b8e96ab50430a5834d2587f5eb3cbe2 Mark.Yu <mark.yu@jdpa.com> 1674332428 -0500	checkout: moving from develop to feature-my-cpp-22949
+0ecad9070b8e96ab50430a5834d2587f5eb3cbe2 d20dd824fc60ad76d7edd162ec53f9431bb6f48c Mark.Yu <mark.yu@jdpa.com> 1674334340 -0500	commit: fixed toggle button
+d20dd824fc60ad76d7edd162ec53f9431bb6f48c 902e161a7f3ce4cdbe27c4476ae8544600ac57ac Mark.Yu <mark.yu@jdpa.com> 1674354193 -0500	commit: fixed toggle button
+902e161a7f3ce4cdbe27c4476ae8544600ac57ac 082c366f49cd51a4103192b1d2783de9210184ed Mark.Yu <mark.yu@jdpa.com> 1674592431 -0500	checkout: moving from feature-my-cpp-22949 to release-1.0.0
+082c366f49cd51a4103192b1d2783de9210184ed 0ecad9070b8e96ab50430a5834d2587f5eb3cbe2 Mark.Yu <mark.yu@jdpa.com> 1676475627 -0500	checkout: moving from release-1.0.0 to develop
+0ecad9070b8e96ab50430a5834d2587f5eb3cbe2 97900c8d602d47754bcc1a843e312a7aa7b5ff2d Mark.Yu <mark.yu@jdpa.com> 1676475660 -0500	checkout: moving from develop to release-1.0.2
+97900c8d602d47754bcc1a843e312a7aa7b5ff2d 902e161a7f3ce4cdbe27c4476ae8544600ac57ac Mark.Yu <mark.yu@jdpa.com> 1677094861 -0500	checkout: moving from release-1.0.2 to feature-my-cpp-22949
+902e161a7f3ce4cdbe27c4476ae8544600ac57ac 116f4d0813942c24df47592d54b6a419f088d1c1 Mark.Yu <mark.yu@jdpa.com> 1677126930 -0500	commit: + including logo.ico to solve 302 redirect cors error
+116f4d0813942c24df47592d54b6a419f088d1c1 4242e354a22d9ef3b1f1133a025890e62ca0f7e9 Mark.Yu <mark.yu@jdpa.com> 1677130969 -0500	commit: fixing CI
+4242e354a22d9ef3b1f1133a025890e62ca0f7e9 475814f172938df3af2b7bcc30965922f1250136 Mark.Yu <mark.yu@jdpa.com> 1677131017 -0500	checkout: moving from feature-my-cpp-22949 to develop
+475814f172938df3af2b7bcc30965922f1250136 4242e354a22d9ef3b1f1133a025890e62ca0f7e9 Mark.Yu <mark.yu@jdpa.com> 1677131036 -0500	checkout: moving from develop to feature-my-cpp-22949
+4242e354a22d9ef3b1f1133a025890e62ca0f7e9 f5e486ef4ba2437890620d0cc4e118cfc03d72cf Mark.Yu <mark.yu@jdpa.com> 1677131079 -0500	merge develop: Merge made by the 'recursive' strategy.
+f5e486ef4ba2437890620d0cc4e118cfc03d72cf 0e500a6e2ae8162a3b9252c7a45daf04d57dd706 Mark.Yu <mark.yu@jdpa.com> 1677131487 -0500	commit (merge): Merge branch 'release-1.0.2' into feature-my-cpp-22949
+0e500a6e2ae8162a3b9252c7a45daf04d57dd706 97900c8d602d47754bcc1a843e312a7aa7b5ff2d Mark.Yu <mark.yu@jdpa.com> 1677131749 -0500	checkout: moving from feature-my-cpp-22949 to release-1.0.2
+97900c8d602d47754bcc1a843e312a7aa7b5ff2d 0e500a6e2ae8162a3b9252c7a45daf04d57dd706 Mark.Yu <mark.yu@jdpa.com> 1677131771 -0500	checkout: moving from release-1.0.2 to feature-my-cpp-22949
+0e500a6e2ae8162a3b9252c7a45daf04d57dd706 8cb4f9abe18d8d17285a2280a2fb2c08a6f7a565 Mark.Yu <mark.yu@jdpa.com> 1677131982 -0500	commit: fixing CI
+8cb4f9abe18d8d17285a2280a2fb2c08a6f7a565 475814f172938df3af2b7bcc30965922f1250136 Mark.Yu <mark.yu@jdpa.com> 1677181806 -0500	checkout: moving from feature-my-cpp-22949 to develop
+475814f172938df3af2b7bcc30965922f1250136 c5b1cf9ba7ff9c0c69db37396792b5f99ec9d65c Mark.Yu <mark.yu@jdpa.com> 1679583468 -0400	merge origin/develop: Fast-forward
+c5b1cf9ba7ff9c0c69db37396792b5f99ec9d65c 15cef28c4d517f92836f32e203991da890d735fa Mark.Yu <mark.yu@jdpa.com> 1681082749 -0400	checkout: moving from develop to release-1.0.2
+15cef28c4d517f92836f32e203991da890d735fa ff816ecc57f2ea8ed0358fb2d0d3e7b5e0dbcad0 Mark.Yu <mark.yu@jdpa.com> 1681089939 -0400	commit: Removed wakeBs() method and fixed data re-rendering after update
+ff816ecc57f2ea8ed0358fb2d0d3e7b5e0dbcad0 c5b1cf9ba7ff9c0c69db37396792b5f99ec9d65c Mark.Yu <mark.yu@jdpa.com> 1681089968 -0400	checkout: moving from release-1.0.2 to feature-my-cpp-22077
+c5b1cf9ba7ff9c0c69db37396792b5f99ec9d65c ff816ecc57f2ea8ed0358fb2d0d3e7b5e0dbcad0 Mark.Yu <mark.yu@jdpa.com> 1681090003 -0400	merge release-1.0.2: Fast-forward
+ff816ecc57f2ea8ed0358fb2d0d3e7b5e0dbcad0 7fc2d2404e9679b70df8be2ea6d189e106c9af8e Mark.Yu <mark.yu@jdpa.com> 1681091039 -0400	commit: Removed wakeBs() method and fixed data re-rendering after update
+7fc2d2404e9679b70df8be2ea6d189e106c9af8e 82813f62b496979622fa4d84897654b53f75a4dc Mark.Yu <mark.yu@jdpa.com> 1691580030 -0400	checkout: moving from feature-my-cpp-22077 to release-1.1.0
+82813f62b496979622fa4d84897654b53f75a4dc 82813f62b496979622fa4d84897654b53f75a4dc Mark.Yu <mark.yu@jdpa.com> 1691580153 -0400	checkout: moving from release-1.1.0 to feature-my-cpp-25184
+82813f62b496979622fa4d84897654b53f75a4dc a94b1d3d5105f87bb4b14b57a5f634f939f15532 Mark.Yu <mark.yu@jdpa.com> 1691667840 -0400	commit: updated deployment configuration and base url
+a94b1d3d5105f87bb4b14b57a5f634f939f15532 977bbc5b452d802032e2991e4eda2650d279cb7c Mark.Yu <mark.yu@jdpa.com> 1691699007 -0400	commit: fixing dependencies
+977bbc5b452d802032e2991e4eda2650d279cb7c 418418c9bc17ccbee2008517a0e73f8db9668d0d Mark.Yu <mark.yu@jdpa.com> 1691699321 -0400	commit: fixing dependencies
+418418c9bc17ccbee2008517a0e73f8db9668d0d 4ef702fe4615763bde6afc5acc6a56d0c92a21a9 Mark.Yu <mark.yu@jdpa.com> 1692272805 -0400	commit: updated monitoring ui to use react-router 6 + configured subpath for deployment

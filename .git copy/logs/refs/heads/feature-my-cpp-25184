@@ -1,0 +1,5 @@
+0000000000000000000000000000000000000000 82813f62b496979622fa4d84897654b53f75a4dc Mark.Yu <mark.yu@jdpa.com> 1691580153 -0400	branch: Created from develop^0
+82813f62b496979622fa4d84897654b53f75a4dc a94b1d3d5105f87bb4b14b57a5f634f939f15532 Mark.Yu <mark.yu@jdpa.com> 1691667840 -0400	commit: updated deployment configuration and base url
+a94b1d3d5105f87bb4b14b57a5f634f939f15532 977bbc5b452d802032e2991e4eda2650d279cb7c Mark.Yu <mark.yu@jdpa.com> 1691699007 -0400	commit: fixing dependencies
+977bbc5b452d802032e2991e4eda2650d279cb7c 418418c9bc17ccbee2008517a0e73f8db9668d0d Mark.Yu <mark.yu@jdpa.com> 1691699321 -0400	commit: fixing dependencies
+418418c9bc17ccbee2008517a0e73f8db9668d0d 4ef702fe4615763bde6afc5acc6a56d0c92a21a9 Mark.Yu <mark.yu@jdpa.com> 1692272805 -0400	commit: updated monitoring ui to use react-router 6 + configured subpath for deployment

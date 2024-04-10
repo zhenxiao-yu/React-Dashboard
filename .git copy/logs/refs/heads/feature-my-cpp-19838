@@ -1,0 +1,3 @@
+0000000000000000000000000000000000000000 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1664466116 -0400	branch: Created from origin/develop^0
+06672e512885cf2008117439af8e1f4344f7e3fe 4cf8c0ed8df341457171e20d049dfde6de44ddc1 Mark Yu <zyu347@uwo.ca> 1664482852 -0400	commit: Added more colors so that it would match all available color values from BS
+4cf8c0ed8df341457171e20d049dfde6de44ddc1 e6dc7272cfe644c05f96606a089ef7c7d71d8ab6 Mark Yu <zyu347@uwo.ca> 1664507278 -0400	commit: Fixed tallying bug for ETL component

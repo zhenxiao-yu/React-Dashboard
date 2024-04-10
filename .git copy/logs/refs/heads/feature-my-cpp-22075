@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 06672e512885cf2008117439af8e1f4344f7e3fe Mark Yu <zyu347@uwo.ca> 1663950621 -0400	branch: Created from origin/develop^0
+06672e512885cf2008117439af8e1f4344f7e3fe 81fa4142df461d1a919ef70110e1eccd1e9088d1 Mark Yu <zyu347@uwo.ca> 1664221824 -0400	commit: hiding thing that are not working, started working on breadcrumbs to make them clickable
+81fa4142df461d1a919ef70110e1eccd1e9088d1 b4bda27835b74256d2d7ce4d39dd1a10f05059ca Mark Yu <zyu347@uwo.ca> 1664274824 -0400	commit: Added null response handling to dashboard and legend page
+b4bda27835b74256d2d7ce4d39dd1a10f05059ca 127c42e3966f95c751b13fd2a25ebb3ced16b2fc Mark Yu <zyu347@uwo.ca> 1664561541 -0400	rebase (continue) (finish): refs/heads/feature-my-cpp-22075 onto b7653b70be0dbe7e6e89803f78179863ebe57a14
+127c42e3966f95c751b13fd2a25ebb3ced16b2fc a9357661d091ae19f9612f1772e041028cb8efe9 Mark Yu <zyu347@uwo.ca> 1664561682 -0400	commit (merge): Merge remote-tracking branch 'origin/feature-my-cpp-22075' into feature-my-cpp-22075
+a9357661d091ae19f9612f1772e041028cb8efe9 42f3c0ea9bce248683672fefc6d9168b2b22b5e8 Mark Yu <zyu347@uwo.ca> 1664568756 -0400	commit: cleaned up / hidden items that are currently not in use
+42f3c0ea9bce248683672fefc6d9168b2b22b5e8 eae1fac80ff0554d497ee0da30f6690d647041ea Mark Yu <zyu347@uwo.ca> 1664759766 -0400	commit: Fetching connections' data using .REACT_APP_BS_URL
+eae1fac80ff0554d497ee0da30f6690d647041ea 04b52d3e601df9ab8009ccb42da6fe1ddd622bec Mark Yu <zyu347@uwo.ca> 1664761829 -0400	commit: Calling /update on interval to keep etl alive
+04b52d3e601df9ab8009ccb42da6fe1ddd622bec 3f76c6581b80bcdb230596ba53233f2d3d14643d Mark Yu <zyu347@uwo.ca> 1664826917 -0400	commit: Removed Strict mode and configured dynamic url
+3f76c6581b80bcdb230596ba53233f2d3d14643d 6a025c3ce41208f033c43bf0639d98e60caa4fdc Mark Yu <zyu347@uwo.ca> 1664911998 -0400	commit: Made breadcrumbs clickable
+6a025c3ce41208f033c43bf0639d98e60caa4fdc 453a9a731b835cca9867c9cf4872cddb0216c55b Mark Yu <zyu347@uwo.ca> 1664918585 -0400	commit: code clean up
+453a9a731b835cca9867c9cf4872cddb0216c55b a1ea359ec067f76277a46a0e81ce355a5829cc1b Mark Yu <zyu347@uwo.ca> 1665000195 -0400	commit: call update on mount
